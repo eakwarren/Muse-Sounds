@@ -3,3 +3,4 @@
 *.7z
 .vscode
 decrypt.out
+.DS_Store

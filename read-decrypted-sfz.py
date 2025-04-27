@@ -13,6 +13,7 @@ assert sys.platform == "win32", "This script is for Windows only"
 
 
 # TODO: Set this to False if you don't want to print the output to console
+# At this time, the script will only print a dot each time a decrypted data is retrieved
 print_output = True
 
 # TODO: Output file name, set this to empty string if you don't want to save the output
@@ -101,6 +102,7 @@ var create_ui8array = () => {
 };
 var is_xml_start = (arrbuf) => {
     const xml_start = new Uint8Array([0x3c, 0x3f, 0x78, 0x6d, 0x6c, 0x20, 0x76, 0x65, 0x72, 0x73, 0x69, 0x6f, 0x6e, 0x3d, 0x22, 0x31]);
+    // <?xml version="1
     return (new Uint8Array(arrbuf)).slice(0, 16).every((v, i) => v === xml_start[i]);
 };
 (function () {
@@ -190,11 +192,7 @@ var is_xml_start = (arrbuf) => {
             }
 
             var buf = new Uint8Array(addr.readByteArray(16));
-
-            if (!last_addr.equals(0x0) && !last_addr.add(0x10).equals(addr) && !addr.add(0xf0).equals(last_addr)) {
-                buf = Uint8Array.from(Array.prototype.concat([0], Array.from(buf)));
-            }
-
+%s
             while (sending_latest) {}
 
             if (fast_mode) {
@@ -233,7 +231,14 @@ var is_xml_start = (arrbuf) => {
     });
     recv('quit', msg => injected.detach());
 })();
-""" % addr_auto
+""" % (
+    addr_auto,
+    """
+            if (!last_addr.equals(0x0) && !last_addr.add(0x10).equals(addr) && !addr.add(0xf0).equals(last_addr)) {
+                buf = Uint8Array.from(Array.prototype.concat([0], Array.from(buf)));
+            }
+    """ if replace_separator else ""
+)
 out = b""
 has_end = True
 read_lock = threading.RLock()
@@ -252,6 +257,8 @@ def on_message(message, data):
                     has_end = True
                 else:
                     has_end = False
+            else:
+                print(".", end="", flush=True)
         elif message["type"] == "send" and message["payload"] == "step_by_step_waiting":
             step_by_step_waiting = True
         elif message["type"] == "send" and message["payload"] == "step_by_step_true":

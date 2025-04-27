@@ -7,11 +7,12 @@
 Up until now, I've extracted the following versions:
 - Muse Brass `0.4.4`
 - Muse Choir `0.3.19`
+- Muse Drumline `0.9.9`
 - Muse Guitars Vol. 1 `0.9.8`
 - Muse Harp `0.2.7`
-- Muse Keys `0.4.11`
-- Muse Percussion `0.5.10`
-- Muse Strings `0.4.18`
+- Muse Keys `0.4.13`
+- Muse Percussion `0.5.13`
+- Muse Strings `0.4.19`
 - Muse Woodwinds `0.5.23`
 
 ### Muse Sounds Bugs I've found
@@ -65,6 +66,12 @@ These SFZ files are **NOT** standard and should be modified before using in othe
   - [x] Basses
   - [x] Sopranos
   - [x] Tenors
+- [x] Muse Drumline `0.9.9`
+  - [x] Marching Bass Drums
+  - [x] Marching Cymbals
+  - [x] Marching Snares
+  - [x] Marching Tenors
+  - [x] Show Style Tenors
 - [x] Muse Guitars Vol. 1 `0.9.8`
   - [x] Acoustic Nylon
   - [x] Acoustic Steel Picked
@@ -74,7 +81,7 @@ These SFZ files are **NOT** standard and should be modified before using in othe
   - [x] Electric SC - Clean
 - [x] Muse Harp `0.2.7`
   - [x] Harp
-- [x] Muse Keys `0.4.11`
+- [x] Muse Keys `0.4.13`
   - [x] Celesta
   - [x] Dream Piano
   - [x] Grand Piano
@@ -84,7 +91,7 @@ These SFZ files are **NOT** standard and should be modified before using in othe
   - [x] Suitcase Piano
   - [x] Upright Piano
   - [x] Wurly 200A
-- [x] Muse Percussion `0.5.10`
+- [x] Muse Percussion `0.5.13`
   - [x] Bass Drum
   - [x] Bell Tree
   - [x] Bongos
@@ -116,7 +123,7 @@ These SFZ files are **NOT** standard and should be modified before using in othe
   - [x] Vibraphone
   - [x] Wood Blocks
   - [x] Xylophone
-- [x] Muse Strings `0.4.18`
+- [x] Muse Strings `0.4.19`
   - [x] Contrabasses
   - [x] Viola (Solo)
   - [x] Violas

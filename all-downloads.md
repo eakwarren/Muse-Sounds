@@ -613,6 +613,113 @@ For Chinese users: CloudFlare only has CDN nodes in Mainland China for business 
 ### Muse Keys
 
 #### Celesta
+<details><summary>Celesta (minimal).sf2</summary>
+
+> Presets:
+> 
+> - `Celesta`: Original file: `Celesta.sfz`
+>   - `000:008`
+>   - `Key range`: `C1`-`C8`
+>   - `Samples`: 49
+>   - I've removed all samples except whose velocity is between 64 and 95, and applied to all velocities
+> 
+> Other information:
+> 
+> - `Muse Keys` version: `0.4.11`
+
+> Last updated: 2024-08-24 03:54:44 UTC
+> 
+> [Download Celesta (minimal).sf2](https://dl.muse-sounds.work/public/release-sf2/Muse%20Keys/Celesta/Celesta%20%28minimal%29.sf2) (92.875 MiB)
+
+---
+
+</details>
+
+<details><summary>Celesta.sf2</summary>
+
+> Presets:
+> 
+> - `Celesta`: Original file: `Celesta.sfz`
+>   - `000:008`
+>   - `Key range`: `C1`-`C8`
+>   - `Samples`: 196
+> 
+> Other information:
+> 
+> - `Muse Keys` version: `0.4.11`
+
+> Last updated: 2024-08-24 03:56:41 UTC
+> 
+> [Download Celesta.sf2](https://dl.muse-sounds.work/public/release-sf2/Muse%20Keys/Celesta/Celesta.sf2) (346.16 MiB)
+
+---
+
+</details>
+
+<details><summary>Celesta (minimal).sf3</summary>
+
+> Presets:
+> 
+> - `Celesta`: Original file: `Celesta.sfz`
+>   - `000:008`
+>   - `Key range`: `C1`-`C8`
+>   - `Samples`: 49
+>   - I've removed all samples except whose velocity is between 64 and 95, and applied to all velocities
+> 
+> Other information:
+> 
+> - `Muse Keys` version: `0.4.11`
+
+> Last updated: 2024-08-24 03:55:13 UTC
+> 
+> [Download Celesta (minimal).sf3](https://dl.muse-sounds.work/public/release-sf3/Muse%20Keys/Celesta/Celesta%20%28minimal%29.sf3) (15316 KiB)
+
+---
+
+</details>
+
+<details><summary>Celesta.sf3</summary>
+
+> Presets:
+> 
+> - `Celesta`: Original file: `Celesta.sfz`
+>   - `000:008`
+>   - `Key range`: `C1`-`C8`
+>   - `Samples`: 196
+> 
+> Other information:
+> 
+> - `Muse Keys` version: `0.4.11`
+
+> Last updated: 2024-08-24 03:55:53 UTC
+> 
+> [Download Celesta.sf3](https://dl.muse-sounds.work/public/release-sf3/Muse%20Keys/Celesta/Celesta.sf3) (56.064 MiB)
+
+---
+
+</details>
+
+<details><summary>Celesta (converted).sfz+flac.zip</summary>
+
+> Converted from `Muse Keys` -> `Celesta` -> `Celesta.sfz`.
+> 
+> Standard information:
+> - Key range: `C1`-`C8`
+> 
+> Modifications:
+> - Removed closing tags
+> 
+> Other information:
+> - `Muse Keys` version: `0.4.11`
+
+> Last updated: 2024-08-24 03:17:46 UTC
+> 
+> [Download Celesta (converted).sfz+flac.zip](https://dl.muse-sounds.work/public/release-sfz%2Bflac/Muse%20Keys/Celesta/Celesta%20%28converted%29.sfz%2Bflac.zip) (130.92 MiB)
+
+---
+
+</details>
+
 <details><summary>Celesta.sfz.7z</summary>
 
 > Original sfz files for `Muse Keys` `Celesta` (`Celesta.spx`).
@@ -657,6 +764,7 @@ For Chinese users: CloudFlare only has CDN nodes in Mainland China for business 
 > - Flight of the Bumble-bee <audio src="https://dl.muse-sounds.work/public-preview/Flight%20of%20the%20bumble%20bee%20Rhodes.m4a" controls preload="none"/>
 > - La Campanella <audio src="https://dl.muse-sounds.work/public-preview/La%20Campanella%20Rhodes.m4a" controls preload="none"/>
 > - Rush E Playable <audio src="https://dl.muse-sounds.work/public-preview/Rush%20E%20Playable%20Rhodes.m4a" controls preload="none"/>
+> - Rush E Impossible <audio src="https://dl.muse-sounds.work/public-preview/Rush%20E%20Impossible%20Rhodes.m4a" controls preload="none"/>
 > - Winter Wind <audio src="https://dl.muse-sounds.work/public-preview/Winter%20Wind%20Rhodes.m4a" controls preload="none"/>
 > 
 > Other information:
@@ -708,6 +816,7 @@ For Chinese users: CloudFlare only has CDN nodes in Mainland China for business 
 > - Flight of the Bumble-bee <audio src="https://dl.muse-sounds.work/public-preview/Flight%20of%20the%20bumble%20bee%20Rhodes.m4a" controls preload="none"/>
 > - La Campanella <audio src="https://dl.muse-sounds.work/public-preview/La%20Campanella%20Rhodes.m4a" controls preload="none"/>
 > - Rush E Playable <audio src="https://dl.muse-sounds.work/public-preview/Rush%20E%20Playable%20Rhodes.m4a" controls preload="none"/>
+> - Rush E Impossible <audio src="https://dl.muse-sounds.work/public-preview/Rush%20E%20Impossible%20Rhodes.m4a" controls preload="none"/>
 > - Winter Wind <audio src="https://dl.muse-sounds.work/public-preview/Winter%20Wind%20Rhodes.m4a" controls preload="none"/>
 > 
 > Other information:
@@ -1014,6 +1123,18 @@ For Chinese users: CloudFlare only has CDN nodes in Mainland China for business 
 
 </details>
 
+<details><summary>Piano Pack.sfz+flac.zip</summary>
+
+> Includes all SFZs and samples of Grand Piano. For details, please refer to descriptions of other sfz+flac.zip files under Grand Piano section.
+
+> Last updated: 2024-08-24 00:32:28 UTC
+> 
+> [Download Piano Pack.sfz+flac.zip](https://dl.muse-sounds.work/public/release-sfz%2Bflac/Muse%20Keys/Grand%20Piano/Piano%20Pack.sfz%2Bflac.zip) (1408.9 MiB)
+
+---
+
+</details>
+
 <details><summary>Piano.sfz.7z</summary>
 
 > Original sfz files for `Muse Keys` `Grand Piano` (`Piano.spx`).
@@ -1066,6 +1187,94 @@ For Chinese users: CloudFlare only has CDN nodes in Mainland China for business 
 > Last updated: 2024-08-18 00:11:59 UTC
 > 
 > [Download Hammond Organ.sts.7z](https://dl.muse-sounds.work/public/sts/Muse%20Keys/Hammond%20Organ.sts.7z) (3783.7 KiB)
+
+---
+
+</details>
+
+#### Harpischord
+<details><summary>Harpsichord.sf2</summary>
+
+> Presets:
+> 
+> - `Harpischord`: Original file: `Harpischord.sfz`
+>   - `000:006`
+>   - `Key range`: `F1`-`F6`
+>   - `Samples`: 48
+> 
+> Other information:
+> 
+> - `Muse Keys` version: `0.4.11`
+
+> Last updated: 2024-08-27 03:05:21 UTC
+> 
+> [Download Harpsichord.sf2](https://dl.muse-sounds.work/public/release-sf2/Muse%20Keys/Harpischord/Harpsichord.sf2) (104.03 MiB)
+
+---
+
+</details>
+
+<details><summary>Harpsichord.sf3</summary>
+
+> Presets:
+> 
+> - `Harpischord`: Original file: `Harpischord.sfz`
+>   - `000:006`
+>   - `Key range`: `F1`-`F6`
+>   - `Samples`: 48
+> 
+> Other information:
+> 
+> - `Muse Keys` version: `0.4.11`
+
+> Last updated: 2024-08-27 03:04:58 UTC
+> 
+> [Download Harpsichord.sf3](https://dl.muse-sounds.work/public/release-sf3/Muse%20Keys/Harpischord/Harpsichord.sf3) (18622 KiB)
+
+---
+
+</details>
+
+<details><summary>Harpsichord (converted for MU3).sfz+flac.zip</summary>
+
+> Converted from `Muse Keys` -> `Harpischord` -> `Harpischord.sfz`.
+> 
+> Standard information:
+> - Key range: `F1`-`F6`
+> 
+> Modifications:
+> - Removed closing tags
+> - Removed "trigger", keeping only the "Sustain" group ("Release" group removed) or MuseScore 3 will trigger both at the same time resulting in chaos
+> 
+> Other information:
+> - `Muse Keys` version: `0.4.11`
+
+> Last updated: 2024-08-27 03:04:43 UTC
+> 
+> [Download Harpsichord (converted for MU3).sfz+flac.zip](https://dl.muse-sounds.work/public/release-sfz%2Bflac/Muse%20Keys/Harpischord/Harpsichord%20%28converted%20for%20MU3%29.sfz%2Bflac.zip) (55.188 MiB)
+
+---
+
+</details>
+
+<details><summary>Harpsichord (converted).sfz+flac.zip</summary>
+
+> Converted from `Muse Keys` -> `Harpischord` -> `Harpischord.sfz`.
+> 
+> **MuseScore 3 does not support this sfz. If you want to load it into MuseScore 3, please download `Harpischord (converted for MU3).sfz+flac.zip`.**
+> 
+> Standard information:
+> - Key range: `F1`-`F6`
+> 
+> Modifications:
+> - Removed closing tags
+> 
+> Other information:
+> - `Muse Keys` version: `0.4.11`
+
+> Last updated: 2024-08-27 03:04:23 UTC
+> 
+> [Download Harpsichord (converted).sfz+flac.zip](https://dl.muse-sounds.work/public/release-sfz%2Bflac/Muse%20Keys/Harpischord/Harpsichord%20%28converted%29.sfz%2Bflac.zip) (55.193 MiB)
 
 ---
 

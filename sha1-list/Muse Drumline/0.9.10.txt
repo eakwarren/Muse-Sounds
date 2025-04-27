@@ -1,0 +1,10 @@
+"Muse Drumline/Bass Drum/Bass Drum.spx":                                            2049446 2b204bac12bcd97acf622e9889358317547aa783
+"Muse Drumline/Bass Drum/SFZ/Bass Drum.sts":                                      116696723 ddbc76c1c2571f6082a150742adcce9ad28de62b
+"Muse Drumline/Cymbals/Cymbals.spx":                                                 124852 f43f02ea9244f8c1821d7c73e5ff8fe339766609
+"Muse Drumline/Cymbals/SFZ/Cymbals.sts":                                           72136460 bac5fbedf9cea0c5c16e802f6e847305d64cc93c
+"Muse Drumline/Show Style Tenors/Show Style Tenors.spx":                             258621 d9404a9d36acdbedf817bece1ab2e8e384f0b160
+"Muse Drumline/Show Style Tenors/SFZ/Show Style Tenors.sts":                       17460811 80f525fd1a9ba17f8c8f6cabf0192278fdd1e954
+"Muse Drumline/Snares/Snares.spx":                                                  1780433 aaf493810d7ef2b0d019dddc7933db89e6ee5926
+"Muse Drumline/Snares/SFZ/Snares.sts":                                             82372475 c0c3ce25cb867113b8bb78f59956076d329ba138
+"Muse Drumline/Tenors/Tenors.spx":                                                  3170955 11ab595fcc2e8317faaf902d20d09c6e151a1347
+"Muse Drumline/Tenors/SFZ/Tenors.sts":                                            196434228 c9cd8d07d54c3ed668f177409c485a43035dee92
